@@ -15,5 +15,5 @@ cd mongodb-deployment-k8s
 Export environtment following this. You can create your own username and password with base64
 ```sh
 export MY_SECRET_PASSWORD= #create your password
-export MY_SECRET_PASSWORD= #create your username
+export MY_SECRET_USERNAME= #create your username
 ```
